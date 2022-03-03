@@ -1,6 +1,18 @@
 Perguntas:
 
 1) O que é um repositório?
+R: Repositório é o local onde será armazenado arquivos e alterações em cóidigos, pode ser local ou na nuvem.
+
 2) Qual é a diferença entre Git e Github?
+R:Git é um software que permite que versionemos um arquivo de forma local, ou seja, na própria máquina, e o Github é uma 
+plataforma em que se pode trabalhar em conjunto com o Git, possibilitando além de observar alterações no código mas 
+armazenando eles na nuvem.
+
 3) Porque utilizar controle de versão para os arquivos de um projeto em um projeto de desenvolvimento de software?
-4) QUais as vantagems você enxxerga no Git? Você utilizaria em seu projeto?
+R: É essencial o controle de versão para os arquivos de um projeto de desenvolvimento de software porque sem ele, 
+não há como ver que linha ou sintaxe do código trouxe bugs, ou ações indesejadas para aplicação, não podendo trabalhar em 
+grupo de forma organizada e recuperar arquivos que antes eram locais e depois passador para nuvem.
+
+4) Quais as vantagems você enxerga no Git? Você utilizaria em seu projeto?
+Tem-se como vantagens o versionamento é a possibilidade de colocar comentários de cada modificação commitada no projeto,
+isso é motivo o bastante para usá-lo em meus projetos, principalmente quando há implementações de aplicações.
